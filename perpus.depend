@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1586199237 source:c:\users\62822\documents\bram.c\perpus\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1586198289 source:c:\users\62822\documents\bram.c\perpus\untitled1.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1586199237 source:e:\backup document\bram.c\perpus\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
